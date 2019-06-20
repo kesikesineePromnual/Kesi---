@@ -1,4 +1,4 @@
-// $(document).ready(function ($) {
+ $(document).ready(function ($) {
 
 // 	$.ajax({
 // 		url: site_data.url,
@@ -10,7 +10,6 @@
 // 			alert(response);
 // 		}
 // 	});
-
-// });
-
 console.log("test");
+});
+
